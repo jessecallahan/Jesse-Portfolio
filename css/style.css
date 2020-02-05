@@ -1,0 +1,49 @@
+.index-body{
+
+  padding-top: 10px;
+  min-height: 100%;
+}
+.index-text{
+  padding-top: 100px;
+}
+.contact-body{
+
+  padding-top: 50px;
+  min-height: 100%:
+}
+ html, body {
+  height: 100%;
+  margin: 0;
+}
+.headshot-container img {
+    box-shadow: 3px 8px 3px 3px rgba(38,70,83,.4);
+ 
+}
+.navy{
+  padding-top: 50px;
+}
+
+.footer {
+  padding-top: 100px;
+  position: bottom;
+  left: 0;
+  bottom: 100%;
+  width: 100%;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+/* color input */
+:root {
+  --main-color: none;
+}
+
+body {
+  background-color: var(--main-color);
+}
+
+/* triangle tracker */
+#outputa, #outputb, #outputc, #outputd {
+  display: none;
+}
