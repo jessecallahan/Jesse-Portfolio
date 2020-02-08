@@ -8,7 +8,7 @@
     <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
     <link href="../css/style.css" rel="stylesheet" type="text/css">
     <script src="../js/jquery-3.4.1.js"></script>
-    <script src="../js/scripts2.js"></script>
+    <script src="../js/guitarscript.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -30,7 +30,7 @@
                         <li><a href="ping.html">Ping Pong</a></li>
                         <li><a href="beep.html">Beep Boop</a></li>
                         <li><a href="wordplay.html">Word Play</a></li>
-                        <li><a href="triangle.hml">Triangle Tracker</a></li>
+                        <li><a href="triangle.html">Triangle Tracker</a></li>
                         <li><a href="guitar.html">Guitar Project</a></li>
 
 
@@ -42,8 +42,135 @@
         </div>
     </nav>
 
-    <body>
-        <h1>Under Construction</h1>
-    </body>
+    <title>100 Best Guitar Chords</title>
+    <div class="container">
+        <h1>100 Best Guitar Chords 1.0</h1>
+        <p>Press any note on the guitar
+            <br>
+            Press 3 or more notes to see if you can find one of the 100 Best guitar chords:
+        </p>
+
+        <form id="in">
+            <div id="six" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" class="submit" name="sixthstring"
+                                value="a6">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="sixthstring" value="b6">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="sixthstring" value="c6">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="sixthstring" value="d6"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="five" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" class="submit" name="fifthstring"
+                                value="a5">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="fifthstring" value="b5">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="fifthstring" value="c5">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="fifthstring" value="d5"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="four" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" class="submit" name="forthstring"
+                                value="a4">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="forthstring" value="b4">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="forthstring" value="c4">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="forthstring" value="d4"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="three" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" class="submit" name="thirdstring"
+                                value="a3">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="thirdstring" value="b3">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="thirdstring" value="c3">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="thirdstring" value="d3"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="two" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" class="submit" name="secondstring"
+                                value="a2">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="secondstring" value="b2">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="secondstring" value="c2">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="secondstring" value="d2"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+            <div id="one" class="row">
+                <div class="col-lg-12">
+                    <div class="form-group">
+                        <label class='submit'>
+                            <input type="radio" name="firststring" value="a1">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="firststring" value="b1">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="firststring" value="c1">--------------------</label>
+                        <label class='submit'>
+                            <input type="radio" name="firststring" value="d1"></label>
+                        <!-- <Label is here for placement of error message-> -->
+                        <label for="ownership" class="error" style="display:none;">Not 3 or more notes</label>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <button type="submit" value="submit">click here</button>
+        </form>
+
+        <!-- <button class = "input">press</button> -->
+
+        <p class="output">
+            <!-- <span class = "output"></span> -->
+        </p>
+
+    </div>
 
 </html>
