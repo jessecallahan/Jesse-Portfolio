@@ -1,5 +1,6 @@
-# Beep Boop Project
-https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/beep.html
+# Word Input Project
+[{code}](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/wordplay.html)
+[{website}](https://jessecallahan.github.io/Jesse-Portfolio/work/wordplay.html)
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
@@ -9,7 +10,7 @@ Uses JavaScript logic to manipulate sentences
 
 ## Setup/Installation Requirements
 
-1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/work/beep.html)
+1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/work/wordplay.html)
 3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
 4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
 

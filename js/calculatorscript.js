@@ -29,7 +29,7 @@ $(document).ready(function () {
             result = subtract(number1, number2);
         } else if (operator === "multiply") {
             result = multiply(number1, number2);
-        } else if (operator === "divide") {
+        } else (operator === "divide") {
             result = divide(number1, number2);
         }
         $("#output").text(result);

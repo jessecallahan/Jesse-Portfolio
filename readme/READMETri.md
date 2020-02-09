@@ -1,5 +1,6 @@
-# Beep Boop Project
-https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/triangle.html
+# Triangle Tracker Project
+[{code}](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/triangle.html)
+[{website}](https://jessecallahan.github.io/Jesse-Portfolio/work/triangle.html)
 
 Created 1.17.18</br>
 By _**Jesse Callahan**_</br>
@@ -9,7 +10,7 @@ Takes lengths and tells you the triangle kind.
 
 ## Setup/Installation Requirements
 
-1. Open this [link](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/triangle.html)
+1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/work/triangle.html)
 3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
 4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
 

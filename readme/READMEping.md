@@ -1,5 +1,6 @@
 # Ping Pong Project
-https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/ping.html
+[{code}](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/ping.html)
+[{website}](https://jessecallahan.github.io/Jesse-Portfolio/work/ping.html)
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
@@ -9,7 +10,7 @@ Ping Pong Project
 
 ## Setup/Installation Requirements
 
-1. Open this [link](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/ping.html)
+1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/work/ping.html)
 3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
 4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
 

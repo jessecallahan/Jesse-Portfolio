@@ -1,5 +1,6 @@
 # Color Input Project
-https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/color.html
+[{code}]https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/color.html
+[{website}]https://jessecallahan.github.io/Jesse-Portfolio/work/color.html
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
@@ -9,7 +10,7 @@ Inputs a color and changes background
 
 ## Setup/Installation Requirements
 
-1. Open this [link](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/color.html)
+1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/work/color.html)
 3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
 4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
 
