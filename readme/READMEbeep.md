@@ -1,6 +1,6 @@
 # Beep Boop Project
-[{code}] (https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/beep.html)
-[{website}] (https://jessecallahan.github.io/Jesse-Portfolio/work/beep.html)
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/beep.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/beep.html</br>
 
 
 Created 12.17.18</br>

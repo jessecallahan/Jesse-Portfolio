@@ -1,6 +1,6 @@
 # JS Calculator Project
-[{code}] (https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/calculator.html)
-[{website}] (https://jessecallahan.github.io/Jesse-Portfolio/work/calculator.html)
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/calculator.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/calculator.html</br>
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>

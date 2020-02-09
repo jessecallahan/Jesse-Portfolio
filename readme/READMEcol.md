@@ -1,6 +1,6 @@
 # Color Input Project
-[{code}]https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/color.html
-[{website}]https://jessecallahan.github.io/Jesse-Portfolio/work/color.html
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/color.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/color.html</br>
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>

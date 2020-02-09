@@ -1,6 +1,6 @@
 # Guitar Chords Project
-[{code}](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/guitar.html)
-[{website}](https://jessecallahan.github.io/Jesse-Portfolio/work/guitar.html)
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/guitar.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/guitar.html</br>
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>

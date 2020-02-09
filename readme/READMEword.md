@@ -1,6 +1,6 @@
 # Word Input Project
-{code}https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/wordplay.html</br>
-{website}https://jessecallahan.github.io/Jesse-Portfolio/work/wordplay.html</br>
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/wordplay.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/wordplay.html</br>
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>

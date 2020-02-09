@@ -1,6 +1,6 @@
 # Triangle Tracker Project
-{code}https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/triangle.html</br>
-{website}(https://jessecallahan.github.io/Jesse-Portfolio/work/triangle.html)</br>
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/triangle.html</br>
+{website} https://jessecallahan.github.io/Jesse-Portfolio/work/triangle.html)</br>
 
 Created 1.17.18</br>
 By _**Jesse Callahan**_</br>

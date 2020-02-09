@@ -1,6 +1,6 @@
 # Ping Pong Project
-[{code}](https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/ping.html)
-[{website}](https://jessecallahan.github.io/Jesse-Portfolio/work/ping.html)
+{code} https://github.com/jessecallahan/Jesse-Portfolio/blob/master/work/ping.html)</br>
+{website}(https://jessecallahan.github.io/Jesse-Portfolio/work/ping.html)</br>
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
