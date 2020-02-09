@@ -1,5 +1,5 @@
 # Jesse's Tech Portfolio
-Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/)
+[https://jessecallahan.github.io/Jesse-Portfolio/] (https://jessecallahan.github.io/Jesse-Portfolio/) 
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
