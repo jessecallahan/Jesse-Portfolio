@@ -1,24 +1,22 @@
 # Jesse's Tech Portfolio
-git hub 
+Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/)
 
 Created 12.17.18</br>
-By _**Catherine Bradley**_</br>
-Contact: _**catherinetybradley@gmail.com**_</br>
+By _**Jesse Callahan**_</br>
+Contact: _**JesseCallahan@gmail.com**_</br>
 
 ## Description
-A catalog of plants found in Washington State.
+My tech portofolio
 
 ## Setup/Installation Requirements
 
-1. clone this repository
-2. navigate to project root directory
-3. type **npm install**
-4. type **npm start**
-5. navigate to localhost:3000
+1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/)
+2. Navigate to work tab
+3. All projects are in [here]
+4. All README's are [here]
 
 ## Technologies Used
-* _ReactJS with create-react-app_
+* old school html
 
 ## Tools Used
-* _reactstrap_
-* _react-stack-grid library_
+* bootstrap style sheet 
