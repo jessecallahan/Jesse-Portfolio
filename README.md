@@ -1,5 +1,5 @@
 # Jesse's Tech Portfolio
-[https://jessecallahan.github.io/Jesse-Portfolio/] (https://jessecallahan.github.io/Jesse-Portfolio/) 
+https://jessecallahan.github.io/Jesse-Portfolio/ 
 
 Created 12.17.18</br>
 By _**Jesse Callahan**_</br>
@@ -12,11 +12,11 @@ My tech portofolio
 
 1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/)
 2. Navigate to work tab
-3. All projects are in [here]
-4. All README's are [here]
+3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
+4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
 
 ## Technologies Used
-* old school html
+* Old School html
 
 ## Tools Used
-* bootstrap style sheet 
+* Bootstrap style sheet 
