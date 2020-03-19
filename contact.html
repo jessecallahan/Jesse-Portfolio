@@ -43,44 +43,53 @@
     </nav>
 
 
-    <form>
-        <div class="container">
-            <h3>Contact me</h3>
-            <label for="usr">Email:</label>
-            <input type="text" placeholder="Type your email here..." class="form-control" id="usr">
-            <label for="pwd">Name:</label>
-            <input type="text" placeholder="Type your name here..." class="form-control" id="pwd">
+
+    <div class="container">
+        <h3>Contact me</h3>
+        <form action="mailto:jessetylercallahan@gmail.com?subject=Jesse Callahan's Contact Reply" method="post"
+            enctype="text/plain">
+            <label for="name">Name:</label>
+            <input type="text" placeholder="Type your name here..." class="form-control" name="name">
+            <label for="mail">Email:</label>
+            <input type="text" placeholder="Type your email here..." class="form-control" name="mail">
+
             <label for="comment">Comment:</label>
-            <textarea placeholder="Go ahead and leave a comment. I love hearing from people..." class="form-control"
-                rows="5" id="comment"></textarea>
+            <textarea type="text" rows="5" placeholder="Go ahead and leave a comment. I love hearing from people..."
+                class="form-control" name="comment"></textarea>
             <br></br>
-            <button>Send</button>
-        </div>
-    </form>
+            <input type="submit" value="Send">
+            <input type="reset" value="Reset">
+
+        </form>
+    </div>
+
 
     <div class="footer">
         <div class="container-fluid bg-3 text-center">
-
-            <p>
-                <h3>HI.</h3>
-                I'm Jesse, I am trying to get into the tech industry. I have a background in digital
-                media. I'm currently enrolled at Epicodus programming school where I'm learning front
-                end techniques, Advanced Javascript and React. You can check out all my work in the <a
-                    href="work.html">work</a> section.
-            </p>
-            <p>
-                <h3>FIND ME ON THE WEB</h3>
-                Here is my <a href="https://www.linkedin.com/in/jessetylercallahan">LinkedIn</a> page and my <a
-                    href="https://github.com/jessecallahan">GitHub</a>.
-                Follow me! I'll Follow back! I love meeting and
-                sharing with people.
-            </p>
-            <p>
-                <h3>CHECK OUT MY MEDIA PORTFOLIO</h3>
-                Here is my <a href="https://jessecallahanswork.wordpress.com/">link</a> to things I've done in public
-                radio, film and animation.
-            </p>
+            <footer>
+                <p>
+                    <h3>HI.</h3>
+                    I'm Jesse, I am trying to get into the tech industry. I have a background in digital
+                    media. I'm currently enrolled at Epicodus programming school where I'm learning front
+                    end techniques, Advanced Javascript and React. You can check out all my work in the <a
+                        href="work.html">work</a> section.
+                </p>
+                <p>
+                    <h3>FIND ME ON THE WEB</h3>
+                    Here is my <a href="https://www.linkedin.com/in/jessetylercallahan">LinkedIn</a> page and my <a
+                        href="https://github.com/jessecallahan">GitHub</a>.
+                    Follow me! I'll Follow back! I love meeting and
+                    sharing with people.
+                </p>
+                <p>
+                    <h3>CHECK OUT MY MEDIA PORTFOLIO</h3>
+                    Here is my <a href="https://jessecallahanswork.wordpress.com/">link</a> to things I've done in
+                    public
+                    radio, film and animation.
+                </p>
             </footer>
+        </div>
+    </div>
 
 </body>
 
