@@ -46,3 +46,7 @@ body {
 #outputa, #outputb, #outputc, #outputd {
   display: none;
 }
+
+.navy{
+  padding-top: 50px;
+}
