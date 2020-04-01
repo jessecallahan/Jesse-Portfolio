@@ -12,12 +12,12 @@ My tech portofolio
 
 1. Open this [link](https://jessecallahan.github.io/Jesse-Portfolio/)
 2. Navigate to work tab
-3. All projects are in [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/work)
-4. All README's are [here](https://github.com/jessecallahan/Jesse-Portfolio/tree/master/readme)
+3. All the projects are at my github [here](https://github.com/jessecallahan/)
 
 ## Technologies Used
-* Old School html
+HTML/CSS/Bootstrap/JQuery
 
-## Tools Used
-* Bootstrap style sheet 
+## Support and contact details
+My email is jessetylercallahan@gmail.com. Feel free to email me with questions about my code. I love hearing from people!
+
 
