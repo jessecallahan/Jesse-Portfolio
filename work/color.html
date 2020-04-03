@@ -2,70 +2,72 @@
 <html lang="en">
 
 <head>
-    <title>Jesse Callahan's Portfolio</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="../css/style.css" rel="stylesheet" type="text/css">
-    <script src="../js/jquery-3.4.1.js"></script>
-    <script src="../js/colorscript.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jesse Callahan's Portfolio</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="../css/bootstrap.css" rel="stylesheet" type="text/css">
+  <link href="../css/style.css" rel="stylesheet" type="text/css">
+  <script src="../js/jquery-3.4.1.js"></script>
+  <script src="../js/colorscript.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body>
-    <nav class=navy>
-        <div class="container">
-            <ul class="nav nav-tabs">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="contact.html">Contact</a></li>
+  <nav class=navy>
+    <div class="container">
+      <ul class="nav nav-tabs">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="contact.html">Contact</a></li>
 
-                <li class="active" class="dropdown">
-                    <a href="work.html" class="dropdown-toggle" data-toggle="dropdown" role="button"
-                        aria-haspopup="true" aria-expanded="false">Work<span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="work.html">All Projects</a></li>
-                        <li role="separator" class="divider"></li>
-                        <li><a href="https://jessecallahan.github.io/Pig-Dice/">Pig Dice</a></li>
-                        <li><a href="https://jessecallahan.github.io/Pandemic-game/">Pandemic</a></li>
-                        <li><a href="https://jessecallahan.github.io/pizza-parlor/">Pizza Parlor</a></li>
-                        <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/calculator.html">JS
-                                Calculator</a>
-                        </li>
-                        <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/pandemicWork.html">Color
-                                Input</a>
-                        </li>
-                        <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/beep.html">Beep Boop</a></li>
+        <li class="active" class="dropdown">
+          <a href="work.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+            aria-expanded="false">Work<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="work.html">All Projects</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="city.html">City Tracker</a></li>
+            <li><a href="recipe.html">Recipe Ideas</a></li>
+            <li><a href="https://jessecallahan.github.io/Pig-Dice/">Pig Dice</a></li>
+            <li><a href="https://jessecallahan.github.io/Pandemic-game/">Pandemic</a></li>
+            <li><a href="https://jessecallahan.github.io/pizza-parlor/">Pizza Parlor</a></li>
+            <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/calculator.html">JS
+                Calculator</a>
+            </li>
+            <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/pandemicWork.html">Color
+                Input</a>
+            </li>
+            <li><a href="https://jessecallahan.github.io/Jesse-Portfolio/work/beep.html">Beep Boop</a></li>
 
 
 
-                    </ul>
-                </li>
-            </ul>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    </div>
+    </div>
+  </nav>
+
+  <body>
+    <div class="container">
+      <h1 class="well">Color Input</h1>
+      <p class="bg-warning">This is a lesson in Javascript input values. Using some trickery, the user is able to
+        change the background of the website. Give it a try! ReadMe and Specs here: <a
+          href="https://github.com/jessecallahan/Jesse-Portfolio/blob/master/readme/READMEcol.md"
+          target="_blank">https://github.com/jessecallahan/Jesse-Portfolio/blob/master/readme/READMEcol.md</a>
+      </p>
+      </p>
+      <p>Click a button to choose what color you'd like this page to be:</p>
+      <form>
+        <div class="form-group">
+          <label for="color">Pick a new color for the background:</label>
+          <input id="color" class="form-control" type="color">
         </div>
-        </div>
-        </div>
-    </nav>
+        <button type="button" class="btn-success" name="button">change the background color</button>
+      </form>
 
-    <body>
-        <div class="container">
-            <h1 class="well">Color Input</h1>
-            <p class="bg-warning">This is a lesson in Javascript input values. Using some trickery, the user is able to
-                change the background of the website. Give it a try! ReadMe and Specs here: <a
-                    href="https://github.com/jessecallahan/Jesse-Portfolio/blob/master/readme/READMEcol.md"
-                    target="_blank">https://github.com/jessecallahan/Jesse-Portfolio/blob/master/readme/READMEcol.md</a>
-            </p>
-            </p>
-            <p>Click a button to choose what color you'd like this page to be:</p>
-            <form>
-                <div class="form-group">
-                    <label for="color">Pick a new color for the background:</label>
-                    <input id="color" class="form-control" type="color">
-                </div>
-                <button type="button" class="btn-success" name="button">change the background color</button>
-            </form>
-
-        </div>
-    </body>
+    </div>
+  </body>
 
 </html>
